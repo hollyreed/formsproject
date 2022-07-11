@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ab922b791be49110107eea03b24bcb95" sys_domain="global" table="x_841156_project_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27922b791be49110107eea03b24bcb98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Coffee, Meals, Meeting Request" display_value="Coffee, Meals, Meeting Request" name="x_841156_project_requests" sys_domain="global" view="Default view">fedf5fb51be49110107eea03b24bcb7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23922b791be49110107eea03b24bcb99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Purpose of Event" display_value="Purpose of Event" name="x_841156_project_requests" sys_domain="global" view="Default view">e3922b791be49110107eea03b24bcb92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7922b791be49110107eea03b24bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Food and Beverages (Receipt required)" display_value="Food and Beverages (Receipt required)" name="x_841156_project_requests" sys_domain="global" view="Default view">6f922b791be49110107eea03b24bcb92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27922b791be49110107eea03b24bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Meeting Space (SAAM 10.10.55)" display_value="Meeting Space (SAAM 10.10.55)" name="x_841156_project_requests" sys_domain="global" view="Default view">e7922b791be49110107eea03b24bcb93</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63922b791be49110107eea03b24bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Contact Name Contact Signature Date" display_value="Contact Name Contact Signature Date" name="x_841156_project_requests" sys_domain="global" view="Default view">63922b791be49110107eea03b24bcb94</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3922b791be49110107eea03b24bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_841156_project_requests" name="x_841156_project_requests" sys_domain="global" view="Default view">ab922b791be49110107eea03b24bcb95</sys_ui_form>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_841156_project_requests" sys_domain="global" view="Default view">eb922b791be49110107eea03b24bcb94</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_841156_project_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-08 15:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab922b791be49110107eea03b24bcb95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_841156_project_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ab922b791be49110107eea03b24bcb95</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-08 15:25:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
