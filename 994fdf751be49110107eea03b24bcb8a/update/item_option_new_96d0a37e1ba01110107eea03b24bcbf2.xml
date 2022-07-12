@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Coffee, Meals, Meeting Request">424fdf3a1ba01110107eea03b24bcb71</cat_item>
+        <cat_item display_value="Coffee, Meals, Meeting Request">541ddf3a1ba01110107eea03b24bcb55</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>meeting</name>
-        <order>1500</order>
+        <order>1600</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +68,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-11 17:51:41</sys_created_on>
         <sys_id>96d0a37e1ba01110107eea03b24bcbf2</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Meeting</sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_96d0a37e1ba01110107eea03b24bcbf2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-11 18:20:58</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-12 15:22:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>

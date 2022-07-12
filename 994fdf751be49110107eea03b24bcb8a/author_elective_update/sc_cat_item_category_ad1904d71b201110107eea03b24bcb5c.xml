@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Ergonomic Consultation">f3d8cc971b201110107eea03b24bcb60</sc_cat_item>
+        <sc_category display_value="Maintenance and Repair">d2f86388c611227a002209db6966d5ad</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-12 15:25:34</sys_created_on>
+        <sys_id>ad1904d71b201110107eea03b24bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance and Repair.Ergonomic Consultation</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_update_name>sc_cat_item_category_ad1904d71b201110107eea03b24bcb5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-12 15:25:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project">994fdf751be49110107eea03b24bcb8a</application>
+        <file_path/>
+        <instance_id>17e4d5c1dbcb6c50f37acac50596194f</instance_id>
+        <instance_name>dev107513</instance_name>
+        <name>sc_cat_item_category_ad1904d71b201110107eea03b24bcb5c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Ergonomic Consultation">f3d8cc971b201110107eea03b24bcb60</sc_cat_item><sc_category display_value="Maintenance and Repair">d2f86388c611227a002209db6966d5ad</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-12 15:25:34</sys_created_on><sys_id>ad1904d71b201110107eea03b24bcb5c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maintenance and Repair.Ergonomic Consultation</sys_name><sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package><sys_policy/><sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope><sys_update_name>sc_cat_item_category_ad1904d71b201110107eea03b24bcb5c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-12 15:25:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1858338627</payload_hash>
+        <record_name>Maintenance and Repair.Ergonomic Consultation</record_name>
+        <reverted_from/>
+        <source>d20c1ff61ba01110107eea03b24bcbe4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-12 15:25:34</sys_created_on>
+        <sys_id>691904d71b201110107eea03b24bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f303fed60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-12 15:25:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ed1904d73a201110944d79e22022585f</update_guid>
+        <update_guid_history>ed1904d73a201110944d79e22022585f:-1858338627</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Maintenance and Repair.Ergonomic Consultation">dc3984d71b201110107eea03b24bcb20</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-12 15:26:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>34048906e9be4866ae8f49d90080a539</sys_id>
+        <sys_metadata>ad1904d71b201110107eea03b24bcb5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance and Repair.Ergonomic Consultation</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_scope_delete display_value="">211c41d363b344dc87a313f27983e810</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ad1904d71b201110107eea03b24bcb5c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ad1904d71b201110107eea03b24bcb5c">691904d71b201110107eea03b24bcb60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-12 15:26:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
