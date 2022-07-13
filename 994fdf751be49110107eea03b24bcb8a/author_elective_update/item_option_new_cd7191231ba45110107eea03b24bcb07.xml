@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="DELETE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Ergonomic Consultation Request">a471ddef1b645110107eea03b24bcb3d</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
+        <example_text/>
+        <field/>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <hidden>false</hidden>
+        <include_none>false</include_none>
+        <instructions/>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <macroponent/>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>instructions</name>
+        <order>100</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <published_ref display_value="">672d6cdb1b241110107eea03b24bcb2f</published_ref>
+        <question_text/>
+        <read_only>false</read_only>
+        <read_roles/>
+        <read_script/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table/>
+        <reference/>
+        <reference_qual>undefined</reference_qual>
+        <reference_qual_condition>undefined</reference_qual_condition>
+        <rich_text><![CDATA[<p style="margin: 0in; font-size: 12pt; font-family: &#39;Maiandra GD&#39;, sans-serif;"><u><span style="font-size: 11.0pt; font-family: Calibri, sans-serif;">Instructions:</span></u><span style="font-size: 11.0pt; font-family: Calibri, sans-serif;"> Please complete this form and submit to your supervisor.  Form should be routed through supervisor, appointing authority, then Human Resources for further processing.</span></p>
+<p style="margin: 0in; font-size: 12pt; font-family: &#39;Maiandra GD&#39;, sans-serif;"><strong><u><span style="font-size: 11.0pt; font-family: Calibri, sans-serif; color: red;">Any applicable medical documentation should be sent directly to Human Resources.</span></u></strong></p>]]></rich_text>
+        <roles_to_use_also_request_for/>
+        <save_script/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 15:20:14</sys_created_on>
+        <sys_id>cd7191231ba45110107eea03b24bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>instructions</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_update_name>item_option_new_cd7191231ba45110107eea03b24bcb07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 15:20:14</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>32</type>
+        <ui_page/>
+        <unique>false</unique>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <validate_regex/>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="DELETE" query="documentkey=cd7191231ba45110107eea03b24bcb07"/>
+    <fx_price action="DELETE" query="id=cd7191231ba45110107eea03b24bcb07"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>cd7191231ba45110107eea03b24bcb07</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 15:20:14</sys_created_on>
+        <sys_id>817191231ba45110107eea03b24bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 15:20:14</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>cd7191231ba45110107eea03b24bcb07</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 15:20:14</sys_created_on>
+        <sys_id>457191231ba45110107eea03b24bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 15:20:14</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project">994fdf751be49110107eea03b24bcb8a</application>
+        <file_path/>
+        <instance_id>17e4d5c1dbcb6c50f37acac50596194f</instance_id>
+        <instance_name>dev107513</instance_name>
+        <name>item_option_new_cd7191231ba45110107eea03b24bcb07</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Ergonomic Consultation Request"&gt;a471ddef1b645110107eea03b24bcb3d&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field/&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;false&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;instructions&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref display_value=""&gt;672d6cdb1b241110107eea03b24bcb2f&lt;/published_ref&gt;&lt;question_text/&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table/&gt;&lt;reference/&gt;&lt;reference_qual&gt;undefined&lt;/reference_qual&gt;&lt;reference_qual_condition&gt;undefined&lt;/reference_qual_condition&gt;&lt;rich_text&gt;&lt;![CDATA[&lt;p style="margin: 0in; font-size: 12pt; font-family: &amp;#39;Maiandra GD&amp;#39;, sans-serif;"&gt;&lt;u&gt;&lt;span style="font-size: 11.0pt; font-family: Calibri, sans-serif;"&gt;Instructions:&lt;/span&gt;&lt;/u&gt;&lt;span style="font-size: 11.0pt; font-family: Calibri, sans-serif;"&gt; Please complete this form and submit to your supervisor.  Form should be routed through supervisor, appointing authority, then Human Resources for further processing.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin: 0in; font-size: 12pt; font-family: &amp;#39;Maiandra GD&amp;#39;, sans-serif;"&gt;&lt;strong&gt;&lt;u&gt;&lt;span style="font-size: 11.0pt; font-family: Calibri, sans-serif; color: red;"&gt;Any applicable medical documentation should be sent directly to Human Resources.&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;]]&gt;&lt;/rich_text&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script/&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-13 15:20:14&lt;/sys_created_on&gt;&lt;sys_id&gt;cd7191231ba45110107eea03b24bcb07&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;instructions&lt;/sys_name&gt;&lt;sys_package display_value="Project" source="x_841156_project"&gt;994fdf751be49110107eea03b24bcb8a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project"&gt;994fdf751be49110107eea03b24bcb8a&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_cd7191231ba45110107eea03b24bcb07&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-07-13 15:20:14&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;type&gt;32&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cd7191231ba45110107eea03b24bcb07"/&gt;&lt;fx_price action="delete_multiple" query="id=cd7191231ba45110107eea03b24bcb07"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;cd7191231ba45110107eea03b24bcb07&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-13 15:20:14&lt;/sys_created_on&gt;&lt;sys_id&gt;817191231ba45110107eea03b24bcb0b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-07-13 15:20:14&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;cd7191231ba45110107eea03b24bcb07&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-13 15:20:14&lt;/sys_created_on&gt;&lt;sys_id&gt;457191231ba45110107eea03b24bcb0a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-07-13 15:20:14&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>568081064</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>963630571b641110107eea03b24bcb9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 15:20:14</sys_created_on>
+        <sys_id>517191231ba45110107eea03b24bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f82578a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 15:20:14</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>d5719123efa45110df50d3e009ea6d12</update_guid>
+        <update_guid_history>d5719123efa45110df50d3e009ea6d12:568081064</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c3d151631ba45110107eea03b24bcb8d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-13 15:22:00</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
+        <sys_id>cb9a029fce304b0a92f9dea963a7c6a4</sys_id>
+        <sys_metadata>cd7191231ba45110107eea03b24bcb07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>instructions</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_parent display_value="">a471ddef1b645110107eea03b24bcb3d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_scope_delete display_value="">211c41d363b344dc87a313f27983e810</sys_scope_delete>
+        <sys_update_name>item_option_new_cd7191231ba45110107eea03b24bcb07</sys_update_name>
+        <sys_update_version display_value="item_option_new_cd7191231ba45110107eea03b24bcb07">517191231ba45110107eea03b24bcb13</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-13 15:22:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

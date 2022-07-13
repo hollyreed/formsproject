@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>meals_light_refreshments_are_an_integral_part_of_the_meeting</name>
-        <order>2400</order>
+        <order>2100</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-11 18:06:37</sys_created_on>
+        <sys_created_on>2022-07-13 16:31:12</sys_created_on>
         <sys_id>8244af321be01110107eea03b24bcbcc</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Meals/light refreshments are an integral part of the meeting</sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_8244af321be01110107eea03b24bcbcc</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 15:22:42</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:45:59</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>

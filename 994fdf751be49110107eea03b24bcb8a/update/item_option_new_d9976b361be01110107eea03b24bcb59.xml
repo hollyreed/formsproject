@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Coffee, Meals, Meeting Request">541ddf3a1ba01110107eea03b24bcb55</cat_item>
         <category/>
@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-11 18:20:42</sys_created_on>
+        <sys_created_on>2022-07-13 16:31:16</sys_created_on>
         <sys_id>d9976b361be01110107eea03b24bcb59</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>formatter7</sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_d9976b361be01110107eea03b24bcb59</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 15:22:40</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:45:47</sys_updated_on>
         <table/>
         <tooltip/>
         <type>20</type>

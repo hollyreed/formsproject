@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref display_value="Right Side">525dcc1f1b201110107eea03b24bcb06</published_ref>
+        <question display_value="Pick one:">b3e8a56f1b285110107eea03b24bcb29</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 17:02:49</sys_created_on>
+        <sys_id>fbe8a56f1b285110107eea03b24bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Right Side</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_update_name>question_choice_fbe8a56f1b285110107eea03b24bcb58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 17:02:49</sys_updated_on>
+        <text>Right Side</text>
+        <value>right_side</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=fbe8a56f1b285110107eea03b24bcb58"/>
+</record_update>

@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>event_date_from</name>
-        <order>1100</order>
+        <order>800</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-11 17:48:52</sys_created_on>
+        <sys_created_on>2022-07-13 16:31:14</sys_created_on>
         <sys_id>bf20a73e1ba01110107eea03b24bcb08</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Event Date -- From: </sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_bf20a73e1ba01110107eea03b24bcb08</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 15:22:41</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:45:34</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

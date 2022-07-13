@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>coffee_and_or_light_refreshments_will_be_served_estimated_cost</name>
-        <order>3900</order>
+        <order>3600</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -55,7 +55,8 @@
         <reference/>
         <reference_qual>undefined</reference_qual>
         <reference_qual_condition>undefined</reference_qual_condition>
-        <rich_text/>
+        <rich_text><![CDATA[<div><span style="font-size: 10pt;">Coffee and/or light refreshments will be served. </span></div>
+<div><span style="font-size: 10pt;">SAAM 70.10 <span style="font-size: 11.0pt; line-height: 115%; font-family: Calibri, sans-serif;"><a style="color: #0563c1; text-decoration: underline;" href="http://ofm.wa.gov/policy/70.10.htm" rel="nofollow">http://ofm.wa.gov/policy/70.10.htm</a></span> </span></div>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script/>
         <scale_max>5</scale_max>
@@ -66,19 +67,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-11 18:45:13</sys_created_on>
+        <sys_created_on>2022-07-13 16:31:18</sys_created_on>
         <sys_id>ff1de7ba1be01110107eea03b24bcb8d</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Coffee and/or light refreshments will be served.   Estimated cost $ SAAM 70.10 http://ofm.wa.gov/policy/70.10.htm</sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_ff1de7ba1be01110107eea03b24bcb8d</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 15:22:38</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:45:38</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>32</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

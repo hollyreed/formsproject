@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-12 16:19:37</sys_created_on>
+        <sys_created_on>2022-07-13 16:50:39</sys_created_on>
         <sys_id>f965505b1b601110107eea03b24bcb83</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Sitting flat or back is lower than front</sys_name>
         <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_f965505b1b601110107eea03b24bcb83</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 17:57:52</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:58:14</sys_updated_on>
         <table/>
         <tooltip/>
         <type>1</type>

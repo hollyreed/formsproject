@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Ergonomic Consultation Request">e73ed1631be45110107eea03b24bcbc5</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 16:16:14</sys_created_on>
+        <sys_id>214e95631be45110107eea03b24bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Ergonomic Consultation Request</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_214e95631be45110107eea03b24bcbc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 16:16:14</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project">994fdf751be49110107eea03b24bcb8a</application>
+        <file_path/>
+        <instance_id>17e4d5c1dbcb6c50f37acac50596194f</instance_id>
+        <instance_name>dev107513</instance_name>
+        <name>sc_cat_item_catalog_214e95631be45110107eea03b24bcbc3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Ergonomic Consultation Request">e73ed1631be45110107eea03b24bcbc5</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-13 16:16:14</sys_created_on><sys_id>214e95631be45110107eea03b24bcbc3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Ergonomic Consultation Request</sys_name><sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package><sys_policy/><sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope><sys_update_name>sc_cat_item_catalog_214e95631be45110107eea03b24bcbc3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-13 16:16:14</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-582971965</payload_hash>
+        <record_name>Service Catalog.Ergonomic Consultation Request</record_name>
+        <reverted_from/>
+        <source>963630571b641110107eea03b24bcb9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 16:16:14</sys_created_on>
+        <sys_id>ad4e95631be45110107eea03b24bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f858c0110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 16:16:14</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>254e95638ee45110827ac6718de30fc5</update_guid>
+        <update_guid_history>254e95638ee45110827ac6718de30fc5:-582971965</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Ergonomic Consultation Request">2720e9671be45110107eea03b24bcb51</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-13 16:24:34</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>9eb06abb09254447a8d52363a8af8a61</sys_id>
+        <sys_metadata>214e95631be45110107eea03b24bcbc3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Ergonomic Consultation Request</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_parent display_value="Ergonomic Consultation Request">724c281b1b241110107eea03b24bcb01</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_scope_delete display_value="">211c41d363b344dc87a313f27983e810</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_214e95631be45110107eea03b24bcbc3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_214e95631be45110107eea03b24bcbc3">ad4e95631be45110107eea03b24bcbc5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-13 16:24:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

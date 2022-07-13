@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Ergonomic Consultation Request">724c281b1b241110107eea03b24bcb01</catalog_item>
+        <catalog_variable>IO:2633b0931b641110107eea03b24bcbc9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 16:28:17</sys_created_on>
+        <sys_id>4201ade71be45110107eea03b24bcb57</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>l</sys_name>
+        <sys_package display_value="Project" source="x_841156_project">994fdf751be49110107eea03b24bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4201ade71be45110107eea03b24bcb57</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-13 16:29:56</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Right/Left">7901ade71be45110107eea03b24bcb30</ui_policy>
+        <variable>l</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

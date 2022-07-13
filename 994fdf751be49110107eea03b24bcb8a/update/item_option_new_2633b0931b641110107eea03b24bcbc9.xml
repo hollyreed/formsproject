@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>l</name>
-        <order>2800</order>
+        <order>3400</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -66,7 +66,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-12 18:29:46</sys_created_on>
+        <sys_created_on>2022-07-13 16:28:08</sys_created_on>
         <sys_id>2633b0931b641110107eea03b24bcbc9</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>L</sys_name>
@@ -75,7 +75,7 @@
         <sys_scope display_value="Project">994fdf751be49110107eea03b24bcb8a</sys_scope>
         <sys_update_name>item_option_new_2633b0931b641110107eea03b24bcbc9</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-07-12 18:37:05</sys_updated_on>
+        <sys_updated_on>2022-07-13 16:30:27</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
